@@ -2,3 +2,4 @@ env/
 *.db
 logs/
 *.vscode
+__pycache__/
